@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angeledwards
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react and JS Nodes
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate and learn various projects
 - 📫 How to reach me angel10edwards@gmail.com
 
 <!---
